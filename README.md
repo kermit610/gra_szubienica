@@ -1,0 +1,1 @@
+# gra_szubienica według kursu Mirosława Zalenta kurs3 javascript podmieniona grafika na kermita i hasła 10 generuje sie je w pliku szubienica.js wystarczy zmieniń hasła i w newarray ( zmiana liczby haseł )
